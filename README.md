@@ -1,5 +1,3 @@
-# SkillCraft Technology Internship - Task 4
-
 # Marketing Campaign Exploratory Data Analysis (EDA)
 
 ## 📖 Project Overview
